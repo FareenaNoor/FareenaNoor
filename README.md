@@ -2,13 +2,15 @@
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FareenaNoor&label=Profile%20views&color=0e75b6&style=flat" alt="FareenaNoor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FareenaNoor&theme=onedark" alt="FareenaNoor" /></a> </p>
-
 - 🔭 I’m currently working on **backend development**
 - 🌱 I’m currently learning **Mobile Application**
 - 💬 Ask me about **Java, Python, CPP and Bootstrap**
 - 📫 How to reach me **fareena.bscsses21@iba-suk.edu.pk**
 - ⚡ Fun fact ** I'm a coding enthusiast by day 🌞 and a sleep coding ninja by night 🌙. Some of my most creative code comes to life while everyone else is catching Zzz's!**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FareenaNoor&theme=onedark" alt="FareenaNoor" /></a> </p>
+
+
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fareena-noor-a18446230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/FareenaNoor" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
